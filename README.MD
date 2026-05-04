@@ -1,5 +1,7 @@
 # Hi, I'm Iván Fretes 👋
 
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=180&section=header&text=Iván%20Fretes&fontSize=70&animation=fadeIn&fontAlignY=35)
+
 ### 🚀 Software Engineering Student | Aspiring AI & Data Engineer
 Currently pursuing my degree in **Computer Engineering @ UAA** 🇵🇾. I am a developer focused on building efficient software solutions while specializing in the field of **Artificial Intelligence**.
 
